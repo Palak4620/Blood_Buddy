@@ -1,0 +1,19 @@
+SMAP
+insertData_jsp.java
+JSP
+*S JSP
+*F
++ 0 FrontPage.jsp
+FrontPage.jsp
++ 1 insertData.jsp
+insertData.jsp
+*L
+1,65:51
+1#1,5:115
+5:119,12
+5:125
+6:126,3
+7,9:131
+41,8:166
+48,5:174
+*E

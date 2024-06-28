@@ -1,0 +1,16 @@
+SMAP
+bloodbanklogin_jsp.java
+JSP
+*S JSP
+*F
++ 0 bloodbanklogin.jsp
+bloodbanklogin.jsp
++ 1 header.jsp
+header.jsp
+*L
+5:50
+5#1,111:51
+6#0,121:161
+127,12:283
+138,16:295
+*E

@@ -1,0 +1,21 @@
+SMAP
+DeleteDonar_jsp.java
+JSP
+*S JSP
+*F
++ 0 FrontPage.jsp
+FrontPage.jsp
++ 1 DeleteDonar.jsp
+DeleteDonar.jsp
+*L
+1,65:54
+1#1,4:118
+4,3:12
+6,82:121
+88,14:204
+101,10:218
+111,10:228,3
+121,5:258
+126,5:264
+130,4:269
+*E

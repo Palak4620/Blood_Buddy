@@ -1,0 +1,137 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 1, 2024, 8:41:04 PM
+    Author     : Asus
+*/
+nav a{
+                text-decoration: none;
+                color: black;
+                margin: 30px;
+
+            }
+            nav{
+                /*                background-color: lightgoldenrodyellow;*/
+                color: black;
+                padding: 40px;
+                float: right;
+                font-size:25px;
+                padding-top: 40px;
+
+
+            }
+            .logo{
+                display: inline;
+                height: 20px;
+                width: 40px;
+            }
+            .header{
+                background-color: lightcoral;
+            }
+            .dropdown {
+                display: inline-block;
+                position: relative;
+            }
+
+            .dropdown-options {
+                display: none;
+                position: absolute;
+                overflow: auto;
+                background-color: #f9f9f9;
+                box-shadow: 15px 8px 16px 0px rgba(0,0,0,0.2);
+                z-index: 1;
+            }
+
+            .dropdown-options a {
+                padding: 5px 2px;
+                text-decoration: none;
+                display: block;
+            }
+
+            .dropdown:hover .dropdown-options {
+                display: block;
+                font-size: 20px;
+            }
+
+            .dropdown:hover .dropdown-options a:hover{
+                color: #C23314;
+                animation: slide;
+            }
+
+            #abt{
+                font-style: Brush Script MT;
+            }
+
+            .box{
+                transition: 2s;
+                box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+                border-radius: 5px;
+                width: 25%;
+                display: inline-block;
+                padding-bottom: 5px;
+                position: relative;
+                margin: 2%;
+            }
+
+            .box:hover{
+                transform: scale(1.05, 1.05);
+            }
+
+            .box p {
+                padding: 3px;
+                text-align: center;
+                padding-top: 10px;
+                border-radius: 2.8rem;
+                margin: 10px;
+                z-index: -1;
+                font-family: "NTR", sans-serif;
+                font-size: 1.2rem;
+            }
+            .image img {
+                width: 50%;
+                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;
+            }
+
+
+            .card{
+                /*                justify-content: space-around;*/
+            }
+            
+            .boxx{
+                transition: 2s;
+                box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+/*                border: 2px solid black;*/
+                border-radius: 5px;
+                display: inline-block;
+                width: 25%;
+                height: 400px;
+                padding-bottom: 5px;
+                position: relative;
+                margin: 2%;
+            }
+            
+            .boxx p {
+                padding: 3px;
+                text-align: center;
+                border-radius: 2.8rem;
+                padding-top: 10px;
+                padding-bottom: 10px;
+                margin: 10px;
+                z-index: -1;
+                font-family: "NTR", sans-serif;
+                font-size: 1.2rem;
+            }
+            
+            .image img {
+                width: 100%;
+                
+/*                border-top-right-radius: 5px;
+                border-top-left-radius: 5px;*/
+            }
+            .content{
+                font-family: "NTR", sans-serif; 
+            }
